@@ -1,30 +1,47 @@
 # 👋 Olá, eu sou Janderson Damasceno
 
-🎯 Analista de Dados Júnior em formação  
-📊 Foco em Power BI, Python e SQL  
+🎯 Analista de Dados Júnior  
+📊 Foco em Análise de Dados, Business Intelligence e Visualização  
+💻 Formação em Sistemas de Informação  
 📍 Brasil  
 
 ---
 
 ## 🚀 Sobre Mim
-Profissional em transição para a área de Dados, com formação em Sistemas de Informação
-e foco em análise exploratória, visualização de dados e geração de insights estratégicos.
+
+Profissional em transição para a área de Dados, com sólida base em tecnologia e foco em transformar dados em informações estratégicas para apoio à tomada de decisão.
+
+Tenho experiência prática com análise exploratória de dados, criação de dashboards interativos e manipulação de dados utilizando Python, SQL e Power BI.
 
 ---
 
-## 🛠️ Tecnologias
-- Python
-- Pandas
-- SQL
-- Power BI
-- Excel
+## 🛠️ Tecnologias e Ferramentas
+
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 🗄️ SQL
+- 📊 Power BI
+- 📑 Excel
+- 📈 Análise Exploratória de Dados (EDA)
+- 📚 Estatística Básica aplicada a Dados
 
 ---
 
 ## 📊 Projetos em Destaque
-🔹 Análise de Vendas com Python  
-🔹 Dashboard Financeiro no Power BI  
-🔹 Análise Exploratória de Dados Públicos  
+
+🔹 **Análise de Vendas com Python**  
+Limpeza, tratamento e geração de insights estratégicos a partir de dados comerciais.
+
+🔹 **Dashboard Financeiro no Power BI**  
+Criação de painel interativo para análise de faturamento, custos e margem de lucro.
+
+🔹 **Análise Exploratória com Dados Públicos**  
+Identificação de padrões e tendências utilizando técnicas de EDA.
+
+---
+
+## 📈 Objetivo Profissional
+
+Atuar como Analista de Dados Júnior, contribuindo com análises estratégicas, melhoria de processos e geração de valor por meio dos dados.
 
 ---
 
