@@ -46,7 +46,7 @@ Atuar como Analista de Dados Júnior, contribuindo com análises estratégicas, 
 ---
 
 ## 📫 Contato
-LinkedIn: [(colocar link)](https://www.linkedin.com/in/janderson-de-carvalho-mendes-damasceno-8a2385241/)
+LinkedIn: (https://www.linkedin.com/in/janderson-de-carvalho-mendes-damasceno-8a2385241/)
 Email: Janderson.damsaceno@outlook.com
 
 
