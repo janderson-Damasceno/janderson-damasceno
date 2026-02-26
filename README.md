@@ -1,4 +1,4 @@
-# 👋 Olá,
+# 👋 Olá, sou Janderson Damasceno
 
 🎯 Analista de Dados Júnior  
 📊 Foco em Análise de Dados, Business Intelligence e Visualização  
